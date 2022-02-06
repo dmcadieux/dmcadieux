@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmcadieux
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning data structures with CS61B
+- 🌱 I’m currently learning data structures with CS61B.
 - 💞️ I’m looking to collaborate on open source projects for beginner-intermediates.
 - 📫 How to reach me dmcadieux@gmail.com
 
